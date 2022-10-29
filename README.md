@@ -6,6 +6,6 @@
 - Search for info about an address when you type the CEP
 
 
-### 👁️ [View Online](https://react-buscador-cep.netlify.app/)
+### 👁️ [View Online](https://react-busca-cep.netlify.app)
 
 ![Print](print.png)
